@@ -16,6 +16,12 @@ The main goal was to catch impulse buyers, midnight snackers, and night-shift co
 
 ---
 
+## 📂 Project Structure & Datasets
+
+All the raw data and files used to build this project are completely open-source and available in this repository:
+*   `24Seven_Data.xlsx`: The raw Excel workbook containing the three core sheets (`Fact Store Operations`, `Dim Store Master`, and `Fact Corporate Financials`).
+*   `24_Seven_Shutdown.pbix`: The complete, interactive Power BI dashboard file which can be accessed after downloading and running on your system.
+
 ## The Downfall of 24Seven
 
 On the surface, 24Seven looked incredibly successful because the stores were always busy. However, behind the scenes, a financial disaster was brewing. In business, making a lot of sales does not mean you are making a profit. The core issue was that the cost of running a round-the-clock physical store in India is incredibly high.
